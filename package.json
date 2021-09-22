@@ -14,7 +14,15 @@
   "author": "Diego Lozano <jferdi24@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-message": "./bin/global.js"
+    "random-message": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jferdi24/random-message-terminal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jferdi24/random-message-terminal/issues"
+  },
+  "homepage": "https://github.com/jferdi24/random-message-terminal#readme"
 }
